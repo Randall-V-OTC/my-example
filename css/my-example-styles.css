@@ -1,0 +1,16 @@
+.content-container {
+    width: 80%;
+    margin: 5rem auto 5rem auto;
+    border: 1px solid gray;
+    border-radius: 5px 5px 0px 0px;
+}
+
+.content-head {
+    border-bottom: 1px solid gray;
+    width: 100%;
+    overflow: visible;
+    padding-bottom: 5px;
+    -webkit-box-shadow: 0px 10px 12px -14px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 10px 12px -14px rgba(0,0,0,0.75);
+    box-shadow: 0px 10px 12px -14px rgba(0,0,0,0.75);
+}
